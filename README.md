@@ -47,7 +47,12 @@ https://clara-coly-todo.herokuapp.com/
     php artisan migrate
     ```
 
-6. Run the dev server (the output will give the address):
+6. Run database seed
+    ```sh
+    php artisan db:seed
+    ```
+
+7. Run the dev server (the output will give the address):
     ```sh
     php artisan serve
     ```
