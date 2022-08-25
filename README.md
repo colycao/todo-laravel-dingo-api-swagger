@@ -69,3 +69,4 @@ php artisan test
 ## Pending
 
 - [ ] Add JWT
+- [ ] Add Docker
