@@ -66,6 +66,31 @@ or
 php artisan test
 ```
 
+## 返回结果
+
+```json
+// 成功
+{
+    "success": 1,
+    "message": "TODOを表示しました。",
+    "status_code": 200,
+    "data": {
+        "id": 4,
+        ...
+        "created_at": "2022-08-24 00:12:47",
+        "updated_at": "2022-08-24 00:12:47",
+        ...
+    }
+}
+
+// 失败
+{
+    "success": 0,
+    "message": "TODO情報が見つかりませんでした。",
+    "status_code": 404
+}
+```
+
 ## Pending
 
 - [ ] Add JWT
