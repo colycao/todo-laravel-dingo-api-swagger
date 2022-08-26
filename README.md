@@ -15,6 +15,12 @@ https://clara-coly-todo.herokuapp.com/
 - [x] DBのテーブル　clara_coly_todo-20220824.sql
 - [x] 管理システム https://clara-coly-todo.herokuapp.com/admin/todos
 
+## Requirements
+```sh
+PHP 7.3 or higher
+Laravel 8.0 or higher
+```
+
 ## Installation
 
 1. Clone the repo locally:
