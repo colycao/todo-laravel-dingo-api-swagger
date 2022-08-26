@@ -60,7 +60,7 @@ Laravel 8.0 or higher
 
 7. Run the dev server (the output will give the address):
     ```sh
-    php artisan serve
+    php artisan serve --host=127.0.0.1 --port=8000
     ```
 
 ## Running tests
