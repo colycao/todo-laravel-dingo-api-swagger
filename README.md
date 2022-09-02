@@ -94,9 +94,9 @@ php artisan test
 ## Check
 http://127.0.0.1:8000
 
-- [x] API仕様書 http://127.0.0.1:8000/api/documentation
+- [x] API仕様書 https://todo-dingo-api-swagger.herokuapp.com/api/documentation
 - [x] DBのテーブル　todo-20220824.sql
-- [x] 管理システム http://127.0.0.1:8000/admin/todos
+- [x] 管理システム https://todo-dingo-api-swagger.herokuapp.com/admin/todos
 
 ## Pending
 
