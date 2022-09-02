@@ -8,13 +8,6 @@
 - [x] 登録されているTODOを一覧で表示できる
 - [x] 登録したTODOの完了状態をメモする
 
-## Demo
-https://clara-coly-todo.herokuapp.com/
-
-- [x] API仕様書 https://clara-coly-todo.herokuapp.com/api/documentation
-- [x] DBのテーブル　clara_coly_todo-20220824.sql
-- [x] 管理システム https://clara-coly-todo.herokuapp.com/admin/todos
-
 ## Requirements
 ```sh
 PHP 7.3 or higher
@@ -96,6 +89,14 @@ php artisan test
     "status_code": 404
 }
 ```
+
+
+## Check
+http://127.0.0.1:8000
+
+- [x] API仕様書 http://127.0.0.1:8000/api/documentation
+- [x] DBのテーブル　todo-20220824.sql
+- [x] 管理システム http://127.0.0.1:8000/admin/todos
 
 ## Pending
 
