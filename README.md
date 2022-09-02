@@ -91,8 +91,8 @@ php artisan test
 ```
 
 
-## Check
-http://127.0.0.1:8000
+## Demo
+https://todo-dingo-api-swagger.herokuapp.com/
 
 - [x] API仕様書 https://todo-dingo-api-swagger.herokuapp.com/api/documentation
 - [x] DBのテーブル　todo-20220824.sql
