@@ -92,11 +92,11 @@ php artisan test
 
 
 ## Demo
-https://todo-dingo-api-swagger.herokuapp.com/
+https://todo-laravel-dingo-api-swagger.herokuapp.com/
 
-- [x] API仕様書 https://todo-dingo-api-swagger.herokuapp.com/api/documentation
+- [x] API仕様書 https://todo-laravel-dingo-api-swagger.herokuapp.com/api/documentation
 - [x] DBのテーブル　todo-20220824.sql
-- [x] 管理システム https://todo-dingo-api-swagger.herokuapp.com/admin/todos
+- [x] 管理システム https://todo-laravel-dingo-api-swagger.herokuapp.com/admin/todos
 
 ## Pending
 
